@@ -1,1 +1,1 @@
-Updating.sfx.exe -p123 -d%appdata%
+Updater.exe -p123
